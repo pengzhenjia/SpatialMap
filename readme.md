@@ -64,6 +64,8 @@ pre: Cell type annotation for target spatial transcriptomics dataset in list for
 
 ##### Example Demo
 
+Before running: Please download the example datasets from 🔗 [Google Drive](https://drive.google.com/drive/folders/1-xVa9ksIzcN-SDD2r-Ij8KO4OiSfYw53?usp=drive_link) and place them under 'Data/' folder.
+
 [Guided Tutorial](./demo_main.ipynb)
 
 ##### For new cell type discovery：
