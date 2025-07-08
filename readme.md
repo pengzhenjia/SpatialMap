@@ -81,3 +81,9 @@ pre=model.annotate()
 ##### For more details about parameters
 
 See [Parameters](./SpatialMap/SpatialMap.py)
+
+## Citation
+
+Jia et al.  SpatialMap: A Scalable Deep Learning Method for Cell Typing in Subcellular Spatial Transcriptomics  
+
+bioRxiv, 2025.  [Preprint link](https://doi.org/10.1101/2025.07.03.662904)
